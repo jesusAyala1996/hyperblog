@@ -14,7 +14,7 @@ body{
     background:#33A ;
     color: white;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.8em;
 }
 
 
@@ -43,3 +43,9 @@ body{
     font-size:20px
 }
 
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
